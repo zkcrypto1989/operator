@@ -1,7 +1,7 @@
 {
   "name": "zkcrypto1989",
-  "website": "https://github.com/zkcrypto1989/operator/blob/main/metadata.json",
+  "website": "https://raw.githubusercontent.com/zkcrypto1989/operator/master/metadata.json",
   "description": "Love Eignerlayer and zero knowledge proofs.",
-  "logo": "https://github.com/zkcrypto1989/operator/blob/main/operator1.png",
-  "twitter": "https://x.com/example"
+  "logo": "https://raw.githubusercontent.com/zkcrypto1989/operator/master/operator1.png",
+  "twitter": ""
 }
